@@ -1,0 +1,16 @@
+{
+  "name": "PoW Notes - Proof of Work Nostr Client",
+  "short_name": "PoW Notes",
+  "description": "A Nostr client that displays notes sorted by their proof of work difficulty. Only notes with computational work are shown.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
